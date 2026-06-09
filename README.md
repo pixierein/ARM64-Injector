@@ -2,4 +2,4 @@
 
 ## A Basic ARM64 Injector for Apple Silicon 
 
-- Uses DYLD_INSERT_LIBRARIES
+- Uses Mach Remote Thread Injection Using DLOPEN SC
